@@ -1,11 +1,12 @@
 :root{
     
-    --primary-color:rgb(101, 101, 145);
+        --primary-color:rgb(101, 101, 145);
     --bg-color:rgb(25, 30, 36);
-    --light-bg-color:#3c3c3d;
+    --light-bg-color:#f6f6fc;
     --text-color:rgba(17, 15, 15, 0.959);
     --light-text-color:rgb(27, 16, 16);
     --primary-text-color:white;
+
 
 
 }
